@@ -1,5 +1,6 @@
 <?php
 
+    //Testando
     include 'conexao.php';
 
     $userId    = $_POST['userId'];
